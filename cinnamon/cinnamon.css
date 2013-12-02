@@ -382,7 +382,7 @@ StScrollBar StButton#vhandle:hover
     -minimum-hpadding: 2px;
     font-weight: bold;
     color: rgba(200,200,200,1);
-    transition-duration: 100;
+    /*transition-duration: 100;*/
 }
 
 .panel-button:hover {
@@ -2210,7 +2210,7 @@ StScrollBar StButton#vhandle:hover
     -natural-hpadding: 3px;
     -minimum-hpadding: 3px;
     border-radius: 3px;
-    transition-duration: 100;
+    /*transition-duration: 100;*/
     color: #bbb;
 }
 
